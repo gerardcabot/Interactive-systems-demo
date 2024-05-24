@@ -25,15 +25,15 @@ public class Spawner : MonoBehaviour
 
 
     public Vector3[] leftSpawnPositions = {
-        new Vector3(-55.26f, 1.567744f, -26.0f),
-        new Vector3(-65.4f, 1.567744f, -35.0f),
-        new Vector3(-85.0f, 1.567744f, -25.0f),
-        new Vector3(-85.0f, 1.567744f, -34.8f),
-        new Vector3(-65.0f, 1.567744f, -54.2f),
-        new Vector3(-74.4f, 1.567744f, -65.1f),
-        new Vector3(-65.6f, 1.567744f, -64.3f),
-        new Vector3(-65.6f, 1.567744f, -84.7f)
-    };
+    new Vector3(44.74f, -1.567744f, 26.0f),
+    new Vector3(34.6f, -1.567744f, 35.0f),
+    new Vector3(15.0f, -1.567744f, 25.0f),
+    new Vector3(15.0f, -1.567744f, 34.8f),
+    new Vector3(35.0f, -1.567744f, 54.2f),
+    new Vector3(25.6f, -1.567744f, 65.1f),
+    new Vector3(34.4f, -1.567744f, 64.3f),
+    new Vector3(34.4f, -1.567744f, 84.7f)
+};
 
     public Vector3[] rightSpawnPositions = {
         new Vector3(55.26f, -1.567744f, 26.0f),
